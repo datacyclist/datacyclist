@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @datacyclist
-- 👀 I’m interested in using R for anything
+- 👀 I’m interested in using R for anything (python is fine, too).
 - 🌱 I’m currently learning Norwegian.
 - 💞️ I’m looking to collaborate on basically any data science stuff.
 - 📫 How to reach me: github@georgruss.ch
